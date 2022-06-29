@@ -1,0 +1,10 @@
+.btnNext{
+    border: none;
+    margin: 10px;
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #FFF;
+    background-color: crimson;
+}
